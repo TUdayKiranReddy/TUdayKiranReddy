@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Applications of Blockchain in IoT
+- 🔭 I’m currently working on Embedded AI systems
 
 - 🌱 I’m currently learning Reinforcement learning in Robotics
 
