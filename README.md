@@ -10,9 +10,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Embedded AI systems
+- 🔭 I’m currently working on "Convex" Optimisation
 
-- 🌱 I’m currently learning Reinforcement learning in Robotics
+- 🌱 I’m currently learning Reinforcement learning x Control Systems
 
 - 👯 I’m looking to collaborate on Projects 
 
