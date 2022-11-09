@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "350px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "550px" src="https://3b1b-posts.us-east-1.linodeobjects.com//images/topics/computer-science.jpg" alt="cover" />
 </div>
 
 <h1> Hi! I'm Uday Kiran! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -27,6 +27,7 @@
 <a href= https://github.com/TUdayKiranReddy?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 <a href= https://github.com/TUdayKiranReddy?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href= https://github.com/TUdayKiranReddy?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/TUdayKiranReddy?tab=repositories&q=&type=&language=tex&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg'> </a>
 <a href= https://github.com/TUdayKiranReddy?tab=repositories&q=&type=&language=opencv&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>
 <a href= https://github.com/TUdayKiranReddy?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
 
