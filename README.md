@@ -33,7 +33,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/tadipatri-uday-kiran-reddy-18660094/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/tadipatri-uday-kiran-reddy/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/TUdayKiranReddy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
@@ -48,7 +48,7 @@
 </a>
  -->
 <p align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=TUdayKiranReddy" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TUdayKiranReddy" alt="Contribution graph" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=TUdayKiranReddy&show_icons=true&theme=radical" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TUdayKiranReddy&theme=radical" alt="Stats" />
 </p>
