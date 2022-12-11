@@ -48,7 +48,7 @@
 </a>
  -->
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TUdayKiranReddy" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TUdayKiranReddy&theme=github-compact" alt="Contribution graph" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=TUdayKiranReddy&show_icons=true&theme=radical" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=TUdayKiranReddy&theme=radical" alt="Stats" />
 </p>
