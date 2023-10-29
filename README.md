@@ -10,9 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Stochastic approximation in RL
-
-- 🌱 I’m currently learning Reinforcement learning
+- 🔭 I’m currently working on theoretical aspects of Transformers
 
 - 👯 I’m looking to collaborate on Projects 
 
